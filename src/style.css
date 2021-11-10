@@ -1,0 +1,39 @@
+body {
+  background-color: rgb(140, 148, 146);
+  color: #f8ebc2;
+}
+
+p {
+  font-weight: bold;
+}
+
+#counter-con {
+  max-width: 300px;
+  margin: auto;
+  margin-top: 200px;
+  text-align: center;
+  border: 5px solid #f8ebc2;
+  padding: 25px;
+}
+
+h1 {
+  font-size: 3rem;
+}
+
+#counter p {
+  font-size: 10rem;
+  margin: 0px;
+  font-weight: bold;
+}
+
+#add,
+#sub {
+  color: #f8ebc2;
+  background-color: #3b3b39;
+  padding: 15px 30px 15px 30px;
+  font-size: 3rem;
+  font-weight: bolder;
+  cursor: pointer;
+  border: none;
+  box-shadow: rgba(0, 0, 0, 0.137) 2px 2px 4px 4px;
+}
